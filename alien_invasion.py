@@ -5,6 +5,8 @@ import pygame
 from settings import Settings
 from ship import Ship
 
+# adding commit via git
+
 class AlienInvasion:
     """Overall class to manage game assets and behavior."""
 
