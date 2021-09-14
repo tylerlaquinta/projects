@@ -14,7 +14,7 @@ while True:
     while True:
         choice = input("Choose: ")
         computer = random.randint(1,3)
-        if choice == 'quit':
+        if choice == 'q':
             sys.exit()
         elif choice == 'r' or choice == 'p' or choice == 's':
             break
